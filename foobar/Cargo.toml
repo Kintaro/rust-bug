@@ -1,0 +1,10 @@
+[package]
+name = "foobar"
+version = "0.1.0"
+authors = ["Simon Wollwage <simon.wollwage@sbibits.com>"]
+
+[dependencies.foobarcore]
+path = "../foobarcore"
+
+[lib]
+crate-type = ["dylib"]

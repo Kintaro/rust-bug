@@ -1,0 +1,4 @@
+[package]
+name = "foobarcore"
+version = "0.1.0"
+authors = ["Simon Wollwage <simon.wollwage@sbibits.com>"]
